@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1046141_dickin_0.user" name="x_1046141_dickin_0.user">0f8864a32fd2e1105c90ae5df699b6b6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-25 08:22:33</sys_created_on>
+        <sys_id>cb8864a32fd2e1105c90ae5df699b6b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0f8864a32fd2e1105c90ae5df699b6b6</sys_name>
+        <sys_package display_value="Dickin' About" source="x_1046141_dickin_0">768864a32fd2e1105c90ae5df699b686</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dickin' About">768864a32fd2e1105c90ae5df699b686</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cb8864a32fd2e1105c90ae5df699b6b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-25 08:22:33</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

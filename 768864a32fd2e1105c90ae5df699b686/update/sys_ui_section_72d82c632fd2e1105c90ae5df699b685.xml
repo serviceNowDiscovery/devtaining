@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="72d82c632fd2e1105c90ae5df699b685" sys_domain="global" table="x_1046141_dickin_0_2nd_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>salutations</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-25 08:24:17</sys_created_on>
+            <sys_id>a4f8eca32fd2e1105c90ae5df699b6ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1046141_dickin_0_2nd_table" sys_domain="global" view="Default view">72d82c632fd2e1105c90ae5df699b685</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-25 08:24:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1046141_dickin_0_2nd_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-25 08:23:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72d82c632fd2e1105c90ae5df699b685</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1046141_dickin_0_2nd_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Dickin' About" source="x_1046141_dickin_0">768864a32fd2e1105c90ae5df699b686</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dickin' About">768864a32fd2e1105c90ae5df699b686</sys_scope>
+            <sys_update_name>sys_ui_section_72d82c632fd2e1105c90ae5df699b685</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-25 08:23:54</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

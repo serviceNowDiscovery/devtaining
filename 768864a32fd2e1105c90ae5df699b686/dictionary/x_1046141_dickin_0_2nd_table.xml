@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d4c868a32fd2e1105c90ae5df699b69c" label="2nd table" max_length="40" name="x_1046141_dickin_0_2nd_table" type="collection">
+        <element label="Salutations" max_length="40" name="salutations" type="string"/>
+    </element>
+</database>
